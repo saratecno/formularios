@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario{
+    font-family: "Playwrite NG Modern", cursive;
+    text-align: center;
+    background-color: rgb(240, 121, 194);
+    height: 50vh;
+}
+.lottie{
+    background-color: rgb(201, 240, 247);
+    height: 50vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
